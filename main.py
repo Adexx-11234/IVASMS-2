@@ -17,7 +17,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 YOUR_BOT_TOKEN = "8552768265:AAGPWm3N-VGXDEfj1PPNDsUJY6H8EvqAmfc"
 
 # ==================== Multiple Admin IDs ====================
-ADMIN_CHAT_IDS = ["7500869913"]
+ADMIN_CHAT_IDS = ["1774315698"]
 # ==========================================================
 
 # Old chat IDs kept for the first run
@@ -36,10 +36,10 @@ STATE_FILE = "processed_sms_ids.json"
 CHAT_IDS_FILE = "chat_ids.json"
 
 INLINE_BUTTONS = [
-    InlineKeyboardButton("📱 NUMBER CHANNEL", url="https://t.me/mrafrixtech"),
-    InlineKeyboardButton("BACKUP CHANNEL", url="https://t.me/auroratechinc"),
-    InlineKeyboardButton("OTP GROUP", url="https://t.me/afrixotpgc"),
-    InlineKeyboardButton("CONTACT DEV", url="https://t.me/jaden_afrix"),
+    InlineKeyboardButton("📱 NUMBER CHANNEL", url="https://t.me/nexusnumberchannel/206),
+    InlineKeyboardButton("BACKUP CHANNEL", url="https://t.me/nexusnumberchannel"),
+    InlineKeyboardButton("OTP GROUP", url="https://t.me/nexusnumberchannel/1"),
+    InlineKeyboardButton("CONTACT DEV", url="https://t.me/P_A_U_L_L_L"),
 ]
 
 # List of countries
