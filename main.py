@@ -36,7 +36,7 @@ STATE_FILE = "processed_sms_ids.json"
 CHAT_IDS_FILE = "chat_ids.json"
 
 INLINE_BUTTONS = [
-    InlineKeyboardButton("📱 NUMBER CHANNEL", url="https://t.me/nexusnumberchannel/206),
+    InlineKeyboardButton("📱 NUMBER CHANNEL", url="https://t.me/nexusnumberchannel/206"),
     InlineKeyboardButton("BACKUP CHANNEL", url="https://t.me/nexusnumberchannel"),
     InlineKeyboardButton("OTP GROUP", url="https://t.me/nexusnumberchannel/1"),
     InlineKeyboardButton("CONTACT DEV", url="https://t.me/P_A_U_L_L_L"),
